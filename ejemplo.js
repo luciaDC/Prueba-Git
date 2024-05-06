@@ -1,3 +1,3 @@
-class Usuario{
+class Persona{
     
 }
